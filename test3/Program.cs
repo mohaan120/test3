@@ -16,6 +16,7 @@ namespace test3
             Console.Write("Fadlan geli taariikhda dhalashada (YYYY-MM-DD): ");
             DateTime dob = DateTime.Parse(Console.ReadLine());
 
+
             Console.Write("Fadlan geli meesha aad ku dhalatay: ");
             string pob = Console.ReadLine();
 
